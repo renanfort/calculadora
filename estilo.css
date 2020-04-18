@@ -1,0 +1,41 @@
+#todo{
+   text-align: center;
+   width: 60vh;
+   padding-top: 5vh;
+   padding-bottom: 5vh;
+   margin: auto;
+   border: 3px solid;
+   margin-top: 10vh;
+   background-color: #454B48;
+   border-color: #454B48
+}
+
+#visor, #visorcorpo{
+   width: 55vh;
+   height: 8vh;
+   margin: auto;
+   background-color: white;
+   margin-bottom: 1.1vh;
+}
+
+#visor{
+
+   text-align: right;
+   font-size: 2.5em;
+}
+
+#corpo{
+   margin: auto;
+   width: 55vh;
+   height: 45vh;
+}
+
+.num, .oper{
+   width: 12vh;
+   height:10vh;
+   font-size: 5vh;
+   padding: 2vh;
+   margin: 0.3vh;
+   margin-top: 1vh;
+   background-color: #E4E1DC;
+}
